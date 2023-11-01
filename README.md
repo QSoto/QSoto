@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QSoto
-- 👀 I’m interested in backend develoment
+- 👀 I’m interested in IoT
 - 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on Laravel project
+- 💞️ I’m looking to collaborate on a Laravel project
 - 📫 How to reach me quintinsotov@gmail.com
 
 <!---
